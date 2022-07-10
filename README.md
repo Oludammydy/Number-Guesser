@@ -1,4 +1,4 @@
-# Number-Guesser
+# Number-Guesser #️⃣:thinking_face:
 A number guessing game!
 
 This game is designed using JavaScript
