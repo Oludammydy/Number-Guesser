@@ -1,4 +1,4 @@
-# Number-Guesser Alt + 129300
+# Number-Guesser
 A number guessing game!
 
 This game is designed using JavaScript
